@@ -3,6 +3,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.toast-custom {
+    @apply text-lg;
+}
+
 *{
     font-family: Outfit;
 }
