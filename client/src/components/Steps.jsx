@@ -11,7 +11,7 @@ const Steps = () => {
             <img className='max-w-9' src={assets.upload_icon}/>
             <div>
                 <p className='text-xl font-medium'>Upload image</p>
-                <p className='text-sm text-neutral-500 mt-1'>This is a demo text,will replace it later.<br/> This is a demo..</p>
+                <p className='text-sm text-neutral-500 mt-1'>Easily upload your photo to start editing in seconds.<br/> Our tool ensures a smooth and hassle-free experience.</p>
             </div>
         </div>
 
@@ -19,7 +19,7 @@ const Steps = () => {
             <img className='max-w-9' src={assets.remove_bg_icon}/>
             <div>
                 <p className='text-xl font-medium'>Remove background</p>
-                <p className='text-sm text-neutral-500 mt-1'>This is a demo text,will replace it later.<br/> This is a demo..</p>
+                <p className='text-sm text-neutral-500 mt-1'>Remove backgrounds from any image with precision and clarity.<br/> Perfect for creating professional or creative visuals.</p>
             </div>
         </div>
 
@@ -27,7 +27,7 @@ const Steps = () => {
             <img className='max-w-9' src={assets.download_icon}/>
             <div>
                 <p className='text-xl font-medium'>Download image</p>
-                <p className='text-sm text-neutral-500 mt-1'>This is a demo text,will replace it later.<br/> This is a demo..</p>
+                <p className='text-sm text-neutral-500 mt-1'>Download your edited image instantly with a single click.<br/> Share it anywhere or use it for your next project effortlessly.</p>
             </div>
         </div>
       </div>
